@@ -1,4 +1,4 @@
-<img src="https://miro.medium.com/max/1073/1*wq5NfjT_bg8YukwVCpwahA.jpeg" alt="dotCMS logo">
+<img src="[https://miro.medium.com/max/1073/1*wq5NfjT_bg8YukwVCpwahA.jpeg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2fkxapqupcSrWXncnfboamkHTmSzDhDe7dw&usqp=CAU)" alt="dotCMS logo">
 
 
 # Campusx_mentorship_program
