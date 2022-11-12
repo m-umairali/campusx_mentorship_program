@@ -1,5 +1,4 @@
-![The San Juan Mountains are beautiful!](![The San Juan Mountains are beautiful!](/assets/images/san-juan-mountains.jpg "San Juan Mountains")
- "San Juan Mountains")
+<img src="https://miro.medium.com/max/1073/1*wq5NfjT_bg8YukwVCpwahA.jpeg" alt="dotCMS logo">
 
 
 # Campusx_mentorship_program
